@@ -15,9 +15,9 @@ function onChange(checkedValues) {
 
 const plainOptions = ['Apple', 'Pear', 'Orange'];
 const options = [
-  { label: '苹果', value: 'Apple' },
-  { label: '梨', value: 'Pear' },
-  { label: '橘', value: 'Orange' },
+  { label: '苹果' },
+  { label: '梨' },
+  { label: '橘' },
 ];
 const optionsWithDisabled = [
   { label: '苹果', value: 'Apple' },
